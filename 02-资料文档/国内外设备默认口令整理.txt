@@ -1,0 +1,294 @@
+厂商	型号	版本号	Username	Password
+3Com	-	1.25	root	letmein
+3Com	Super Stack 2 Switch	Any	manager	manager
+3Com	Switch 3000/3300	-	manager	manager
+3Com	Switch 3000/3300	-	admin	admin
+3Com	Switch 3000/3300	-	security	security
+3Com	Cable Managment System SQL Database (DOSCIC DHCP)	Win2000 & MS	DOCSIS_APP	3Com
+3Com	NAC (Network Access Card)	-	adm	none
+3Com	HiPer ARC Card	v4.1.x of HA	adm	none
+3Com	CoreBuilder 6000	-	debug	tech
+3Com	CoreBuilder 7000	-	tech	tech
+3Com	SuperStack II Switch 2200	-	debug	synnet
+3Com	SuperStack II Switch 2700	-	tech	tech
+3Com	SuperStack / CoreBuilder	-	admin	-
+3Com	SuperStack / CoreBuilder	-	read	-
+3Com	SuperStack / CoreBuilder	-	write	-
+3Com	LinkSwitch and CellPlex	-	tech	tech
+3Com	LinkSwitch and CellPlex	-	debug	synnet
+3Com	Superstack II 3300FX	-	admin	-
+3Com	Switch 3000/3300	-	Admin	3Com
+3Com	3ComCellPlex7000	-	tech	tech
+3Com	Switch 3000/3300	-	monitor	monitor
+3Com	AirConnect Access Point	n/a	-	comcomcom
+3Com	Superstack II Dual Speed 500	-	security	security
+3Com	OfficeConnect 5x1	at least 5.x	-	PASSWORD
+3Com	SuperStack 3 Switch 3300XM	-	admin	-
+3Com	Super Stack 2 Switch	Any	manager	manager
+3Com	SuperStack II Switch 1100	-	manager	manager
+3Com	SuperStack II Switch 1100	-	security	security
+3Com	super stack 2 switch	any	manager	manager
+3Com	Office Connect Remote 812	-	root	!root
+3Com	Switch 3000/3300	-	admin	admin
+3Com	NBX100	2.8	administrator	0
+3Com	Home Connect	-	User	Password
+3Com	OfficeConnect 5x1	at least 5.x	estheralastruey	-
+3Com	SuperStack II Switch 3300	-	manager	manager
+3Com	Superstack	-	-	-
+ACC	Routers	-	netman	netman
+Acc/Newbridge	Congo/Amazon/Tigris	All versions	netman	netman
+Acc/Newbridge	Congo/Amazon/Tigris	All versions	netman	netman
+adaptec	-	-	-	-
+Adaptec RAID	Storage Manager Pro	All	Administrator	adaptec
+adtran	tsu 600 ethernet module	-	18364	-
+Adtran	TSU 120 e	-	-	ADTRAN
+Adtran	TSU 120 e	-	-	ADTRAN
+Alcatel	1000 ANT	Win98	-	-
+Alcatel/Newbridge/Timestep	VPN Gateway 15xx/45xx/7xxx	Any	root	permit
+Alcatel/Newbridge/Timestep	VPN Gateway 15xx/	Any	root	permit
+Alcatel/Newbridge/Timestep	VPN Gateway 15xx/	Any	root	permit
+Allied Tenysin	R130	-	Manager	friend
+Alteon	ACEswitch 180e (telnet)	-	admin	blank
+Alteon Web Systems	All hardware releases	Web OS 5.2	none	admin
+APC	MasterSwitches	-	apc	apc
+APC	Any	Firmware Pri	apcuser	apc
+Apple	Network Assistant	3.X	None	xyzzy
+Apple	Airport	1.1	none	public
+Arrowpoint	any?	-	admin	system
+Ascend	All TAOS models	all	admin	Ascend
+Ascend	Pipeline Terminal Server	-	answer	-
+Ascom	Timeplex Routers	Any	See notes	-
+AT&T	Starlan SmartHUB	9.9	N/A	manager
+AWARD	Any BIOS	-	AWARD_SW	-
+Axent	NetProwler manager	WinNT	administrator	admin
+Axis	NPS 530	5.02	root	pass
+AXIS	StorPoint CD100	4.28	root	pass
+AXIS	200 V1.32	-	admin	-
+Axis	2100 Network Camera	Linux (ETRAX	root	pass
+Bay / Nortel	ARN	13.2	Manager (caps count !)	-
+Bay Network Routers	All	-	User	-
+Bay Networks	ASN / ARN Routers	Any	Manager	Manager
+Bay Networks	Baystack	-	-	NetICs
+Bay/Nortel Networks	Accelar 1xxx switches	Any	rwa	rwa
+Bay/Nortel Networks	Remote Annex 2000	Any	admin	IP address
+BEA	Weblogic	5.1	system	weblogic
+BEA	-	-	-	-
+bewan	-	-	-	-
+Bintec	all Routers	Any	admin	bintec
+Borland	Interbase	Any	politcally	correct
+Borland/Inprise	Interbase	any	SYSDBA	masterkey
+BreezeCOM	Station Adapter and Access Point	4.x	-	Super
+BreezeCOM	-	3.x	-	Master
+BreezeCOM	Station Adapter and Access Point	2.x	-	laflaf
+Brocade	Silkworm	-	admin	password
+Buffalo/MELCO	AirStation WLA-L11	-	root (cannot be changed)	(no password by default)
+Cabletron	NB Series	Any	-	inuvik49
+Cabletron routers and switches	*	*	blank	blank
+Cayman	3220-H DSL Router	GatorSurf 5.	Any	-
+Chase Research	Iolan+	-	-	iolan
+Cisco	Any Router and Switch	10 thru 12			cisco
+Cisco	ConfigMaker Software	any?	n/a	cmaker
+CISCO	Network Registrar	3	ADMIN	changeme
+CISCO	N/A	N/A	pixadmin	pixadmin
+Cisco	routers	Not sure...j	-	san-fran
+Cisco	VPN 3000 Concentrator	-	admin	admin
+Cisco	Net Ranger 2.2.1	Sol 5.6	root	attack
+cisco	1600	12.05	-	-
+Cisco	MGX	*	superuser	superuser
+Cisco	any	aany IOS	no default login	no default password
+Cisco	IDS (netranger)	-	root	attack
+Cobalt	RaQ * Qube*	Any	admin	admin
+Comersus Shopping Cart	3.2	Win 95/98/NT	admin	dmr99
+Compaq	Insight Manager	-	Administrator	administrator
+Compaq	Insight Manager	-	operator	operator
+Compaq	Management Agents	All	administrator	none
+Coyote-Point	Equaliser 4	Free BSD	eqadmin - Serial port only	equalizer
+Coyote-Point	Equaliser 4	Free BSD	touch - Web Browser only (Write	touch
+Cyclades	MP/RT	-	super	surt
+D-Link	DI-704	-	-	admin
+Dell	PowerVault 50F	WindRiver (E	root	calvin
+Dell	PowerVault 35F	-	root	calvin
+Dell	Powerapp Web 100 Linux	RedHat 6.2	root	powerapp
+dell	-	-	-	-
+Digiboard	Portserver 8 & 16	any	root	dbps
+DLink	DI-206 ISDN router	1.*	Admin	Admin
+Dlink	Dl-106 ISDN router	-	-	1234
+DLink	DL-701 Cable/DSL Gateway/Firewall	-	-	year2000
+dlink	di704	-	-	admin
+DLink	DI 106	winnt	administrator	@*nigU^D.ha,;
+Dupont Digital Water Proofer	Sun Sparc	any	root	par0t
+Elron	Firewall	2.5c	hostname/ip address	sysadmin
+Ericsson	ACC	-	netman	netman
+Ericsson (formerly ACC)	Any router	all	netman	netman
+Extended Systems	ExtendNet 4000 / Firewall	all Versions	admin	admin
+Extended Systems	Print Servers	-	admin	extendnet
+Extreme	All Summits	-	admin	-
+extreme	black diamond	-	-	-
+Extreme	All	All	Admin	-
+Flowpoint	144, 2200 DSL Routers	ALL	-	password
+FlowPoint	144, 2200 DSL Routers	ALL	-	admin
+Flowpoint	2200	-	-	Serial Num
+Flowpoint	2200	-	-	Serial Num
+Fore Systems	ASX 1000/1200	6.x	ami	-
+General Instruments	SB2100D Cable Modem	-	test	test
+gonet	-	-	fast	abd234
+Hewlett Packard	HP Jetdirect (All Models)	Any	none	none
+Hewlett Packard	MPE-XL	-	HELLO	MANAGER.SYS
+Hewlett Packard	MPE-XL	-	HELLO	MGR.SYS
+Hewlett Packard	MPE-XL	-	HELLO	FIELD.SUPPORT
+Hewlett Packard	MPE-XL	-	MGR	CAROLIAN
+Hewlett Packard	MPE-XL	-	MGR	CCC
+Hewlett Packard	MPE-XL	-	OPERATOR	COGNOS
+Hewlett Packard	MPE-XL	-	MANAGER	HPOFFICE
+IBM	AS/400	-	qsecofr	qsecofr
+IBM	AS/400	-	qsysopr	qsysopr
+IBM	AS/400	-	qpgmr	qpgmr
+IBM	NetCommerce PRO	3.2	ncadmin	ncadmin
+IBM	LAN Server / OS/2	2.1, 3.0, 4.	username	password
+IBM	2210	RIP	def	trade
+IBM	DB2	WinNT	db2admin	db2admin
+IBM	Lotus Domino Go WebServer (net.commerce edition)	ANY ?	webadmin	webibm
+IBM	AS400	Any	QSECOFR	QSECOFR
+IBM	RS/6000	AIX	root	ibm
+IBM	-	OS/400	QSECOFR	QSECOFR
+IBM	AS400	-	QSRVBAS	QSRVBAS
+IBM	AS400	-	QSRV	QSRV
+IBM	AS/400	OS/400	QUSER	QUSER
+Imperia Software	Imperia Content Managment System	Unix/NT	superuser	superuser
+Intel	510T	Any	-	admin
+Intel	All Routers	All Versions	-	babbit
+Intel	All Routers	All Versions	-	babbit
+Intel	Intel PRO/Wireless 2011 Wireless LAN Access Point	Any	-	Intel
+Intel	wireless lan access Point	-	-	comcomcom
+Ipswitch	Whats up Gold 6.0	Windows 9x a	admin	admin
+janta sales	254	compaq	janta sales	janta211
+janta sales	254	compaq	janta sales	janta211
+Jetform	Jetform_design	-	Jetform	-
+Lantronix	LPS1-T Print Server	j11-16	any	system
+Lantronix	MSS100, MSSVIA, UDS10	Any	-	system
+Lantronix	LSB4	any	any	system
+Lantronix	Printer and terminalservers	-	-	system
+LGIC	Goldstream	2.5.1	LR-ISDN	LR-ISDN
+Linkou School	-	-	bill	bill
+Linkou School	-	-	bill	bill
+Linksys	Cable/DSL router	Any	-	admin
+Linksys	BEFSR7(1) OR (4)	Standalone R	blank	admin
+Linksys	BEFSR41	-	(blank)	admin
+Livingston	Livingston_portmaster2/3	-	!root	blank
+Livingston	Livingston_officerouter	-	!root	blank
+Lucent	Portmaster 2	-	!root	none
+Lucent	Cajun Family	-	root	root
+lucent	Portmaster 3	unknown	!root	!ishtar
+Lucent	Packetstar (PSAX)	-	readwrite	lucenttech1
+Lucent	AP-1000	-	public	public
+MacSense	X-Router Pro	-	admin	admin
+microcom	hdms	unknowen	system	hdms
+Microrouter (Cisco)	Any	Any	-	letmein
+Microrouter (Cisco)	Any	Any	-	letmein
+Microsoft	Windows NT	All	Administrator	-
+Microsoft	Windows NT	All	Guest	-
+Microsoft	Windows NT	All	Mail	-
+Microsoft	SQL Server	-	sa	-
+Microsoft	Windows NT	4	pkoolt	pkooltPS
+Microsoft	NT	-	-	start
+MICROSOFT	NT	4	free user	user
+Microsoft	Windows NT	4	admin	admin
+MICROSOFT	NT	4	free user	user
+Microsoft	Key Managment Server	Windows NT 4	-	password
+Motorola	Motorola-Cablerouter	-	cablecom	router
+Motorola	Motorola-Cablerouter	-	cablecom	router
+Multi-Tech	RASExpress Server	5.30a	guest	none
+Nanoteq	NetSeq firewall	*	admin	NetSeq
+NetApp	NetCache	any	admin	NetCache
+Netgaer	RH328	-	-	1234
+Netgear	RH348	-	-	1234
+Netgear	ISDN-Router RH348	-	-	1234
+Netgear	RT311	Any	Admin	1234
+Netgear	RT314	Any	Admin	1234
+Netgear	RT338	-	-	1234
+Netgear	RT311/RT314	-	admin	1234
+Netopia	R7100	4.6.2	admin	admin
+Netscreen	NS-5, NS10, NS-100	2	netscreen	netscreen
+Nokia - Telecom NZ	M10	-	Telecom	Telecom
+Nortel	Contivity Extranet Switches	2.x	admin	setup
+Nortel	Norstar Modular ICS	Any	**ADMIN (**23646)	ADMIN (23646)
+Nortel	Norstar Modular ICS	Any	**CONFIG (266344)	CONFIG (266344)
+Nortel Networks (Bay)	Instant Internet	Any	-	-
+Novell	NetWare	Any	guest	-
+Novell	NetWare	any	PRINT	-
+Novell	NetWare	Any	LASER	-
+Novell	NetWare	Any	HPLASER	-
+Novell	NetWare	Any	PRINTER	-
+Novell	NetWare	Any	LASERWRITER	-
+Novell	NetWare	Any	POST	-
+Novell	NetWare	Any	MAIL	-
+Novell	NetWare	Any	GATEWAY	-
+Novell	NetWare	Any	GATE	-
+Novell	NetWare	Any	ROUTER	-
+Novell	NetWare	Any	BACKUP	-
+Novell	NetWare	Arcserve	CHEY_ARCHSVR	WONDERLAND
+Novell	NetWare	Any	WINDOWS_PASSTHRU	-
+ODS	1094 IS Chassis	4.x	ods	ods
+Optivision	Nac 3000 & 4000	any	root	mpegvideo
+Oracle	8i	8.1.6	sys	change_on_install
+Oracle	Internet Directory Service	any	cn=orcladmin	welcome
+Oracle	7 or later	-	system	manager
+Oracle	7 or later	-	sys	change_on_install
+Oracle	7 or later	Any	Scott	Tiger
+Oracle	8i	all	internal	oracle
+oracle co.	Database engines	every	sys	change_on_install
+Osicom(Datacom)	Osicom(Datacom)	-	sysadm	sysadm
+Pandatel	EMUX	all	admin	admin
+PlainTree	Waveswitch 100	-	-	default.password
+RapidStream	RS4000-RS8000	Linux	rsadmin	rsadmin
+Remedy	Any	Any	Demo	-
+Research Machines	Classroom Assistant	Windows 95	manager	changeme
+Rodopi	Rodopi billing software 'AbacBill' sql database	-	rodopi	rodopi
+Samba	SWAT Package	Linux	Any Local User	Local User password
+schoolgirl	member	-	ich	hci
+Securicor3NET	Monet	any	manager	friend
+Securicor3NET	Cezzanne	any	manager	friend
+SGI	all	all	root	n/a
+SGI	Embedded Support Partner	IRIX 6.5.6	Administrator	Partner
+SGI	IRIX	ALL	OutOfBox, demos, guest, 4DGifts	(none by default)
+SGI	IRIX	ALL	EZsetup	-
+Shiva	LanRover	any?	root	-
+Shiva	AccessPort	Any	hello	hello
+Shiva	Any?	-	Guest	blank
+SMC	Barricade	-	-	admin
+soho	nbg800	unknown	admin	1234
+sonic wall	any firewall device	admin	password	-
+SonicWall	Any Firewall Device	-	admin	password
+Spider Systems	M250 / M250L	-	-	hello
+Sprint PCS	SCH2000	see notes	Menu - 8 - 0 (see notes)	40793
+Ssangyoung	SR2501	-	-	2501
+Sun	-	SunOS 4.1.4	root	-
+surecom	ep3501/3506	own os	admin	surecom
+SysKonnect	6616	-	default.password	-
+SysKonnect	6616	-	default.password	-
+Tekelec	Eagle STP	-	eagle	eagle
+Telebit	netblazer 3.*	-	setup/snmp	setup/nopasswd
+Terayon	TeraLink Getaway	-	admin	password
+Terayon	TeraLink 1000 Controller	-	admin	password
+Terayon	TeraLink 1000 Controller	-	user	password
+Terayon	TeraLink Getaway	-	user	password
+terayon	-	6.29	admin	nms
+Titbas	-	SCO	haasadm	lucy99
+TopLayer	AppSwitch 2500	Any	siteadmin	toplayer
+Toshiba	TR-650	V2.01.00	admin	tr650
+Trintech	eAcquirer App/Data Servers	-	t3admin	Trintech
+Ullu ka pattha	Gand mara	Gandoo	Bhosda	Lund
+USR	TOTALswitch	Any	none	amber
+Vina Technologies	ConnectReach	3.6.2	(none)	(none)
+Webmin	Webmin	Any Unix/Lin	admin	-
+Webramp	410i etc...	-	wradmin	trancell
+Wireless Inc.	- 2458	n/a	root	rootpass
+Xylan	Omnistack 1032CF	3.2.8	admin	password
+Xylan	Omnistack 4024	3.4.9	admin	password
+Xylan	Omniswitch	3.1.8	admin	switch
+xyplex	mx-16xx	-	setpriv	system
+Zyxel	ISDN-Router Prestige 1000	-	-	1234
+zyxel	prestige 300 series	zynos 2.*	-	1234
+Zyxel	ISDN Router Prestige 100IH	-	-	1234
+ZYXEL	641 ADSL	-	-	1234
+Zyxel	prestige 128 modem-router	any	-	1234
