@@ -14,8 +14,7 @@
 
 
 ## 欢迎加个好友
-![image](https://github.com/awake1t/HackReport/blob/master/images/WeChat.jpg)
-
+![image](https://github.com/awake1t/HackReport/blob/main/images/WeChat.jpg)
 
 ## 目录
 
