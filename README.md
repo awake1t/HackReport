@@ -14,6 +14,7 @@
 
 
 ## 欢迎加个好友
+微信: drunk_kk
 ![image](https://github.com/awake1t/HackReport/blob/main/images/WeChat.jpg)
 
 ## 目录
