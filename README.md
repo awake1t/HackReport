@@ -19,11 +19,11 @@
 
 
 ## 欢迎加个好友
-微信: drunk_kk (备注:git)
+微信: drunk_kk (备注:git)</br>
 ![image](https://github.com/awake1t/HackReport/blob/main/images/WeChat.jpg)
 
 ## 打赏
-如果对你有帮助,欢迎打赏,金额随意
+如果对你有帮助,欢迎打赏,金额随意</br>
 ![image](https://github.com/awake1t/HackReport/blob/main/images/WeChat_pay.jpg)
 
 
